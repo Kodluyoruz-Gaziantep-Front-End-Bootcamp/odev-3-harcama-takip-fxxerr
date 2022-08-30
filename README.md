@@ -1,15 +1,67 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week 2 
 
-# Homework 
-```Ödev```
+## Homework 2
 
+### Description:
 
-## Homework Description
-
-```Ödev Açıklaması ```
+Budget Tracker App with React Hooks
 
 
-## Author
+### Build with:
 
-```Ödevi yapan```
+
+
+* [![React][React.js]][React-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+
+
+
+
+
+
+
+
+
+### Installation
+
+
+1 Clone the repo
+   ```sh
+   git clone https://github.com/username/Project-Name.git
+   ```
+2 Install NPM packages
+   ```sh
+   npm install
+   ```
+3 Start the project
+   ```js
+   npm start
+   ```
+
+
+
+
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Tuğberk Muratoğlu
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/tu%C4%9Fberkmurato%C4%9Flu/
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
